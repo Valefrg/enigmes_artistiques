@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 197: expected statement.
+    Gardien : Oui, de plus il est important de noter que c’est le cadre d’origine, approchons-nous.
+            ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri Dec 30 19:51:02 2022
