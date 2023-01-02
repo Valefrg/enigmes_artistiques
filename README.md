@@ -13,4 +13,4 @@ Enigmes Artistiques est un jeu de type Visual Novel. Le but du jeu est de répon
 Nous sommes dans la peau d'une étudiante en histoire de l'art qui, à l'aide du gardien de musée, doivent résoudre les énigmes d'un voleur ayant dérobé une oeuvre majeure du musée. 
 Le jeu avance selon les choix des réponses. Ce qui vous menera à une seule et unique bonne fin ou à une multitude de mauvaises fins possibles. 
 
-Le but du jeu est de tester les connaisannces dans ce domaine, tout en se divertissant. Nous pourrions imaginer ce jeu comme une prolongation à la visite de la collecion permanente du mcba, montrant quelques unes de ses pièces phares.
+Le but du jeu est de tester les connaissances dans ce domaine, tout en se divertissant. Nous pourrions imaginer ce jeu comme une prolongation à la visite de la collection permanente du mcba, montrant quelques-unes de ses pièces phares.
