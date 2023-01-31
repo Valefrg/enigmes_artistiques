@@ -14,3 +14,11 @@ Nous sommes dans la peau d'une étudiante en histoire de l'art qui, à l'aide du
 Le jeu avance selon les choix des réponses. Ce qui vous menera à une seule et unique bonne fin ou à une multitude de mauvaises fins possibles. 
 
 Le but du jeu est de tester les connaissances dans ce domaine, tout en se divertissant. Nous pourrions imaginer ce jeu comme une prolongation à la visite de la collection permanente du mcba, montrant quelques-unes de ses pièces phares.
+
+# Data
+Les arrières fonds de musée et les images des oeuvres proviennent du site du Musée cantonal des Beaux-Arts de Lausanne; https://www.mcba.ch/
+hormis l'image de la salle "Soulages" provenant du site de l'EPFL; https://www.epfl.ch/campus/art-culture/page-146276-en-html/soulages_en/
+Le personnage du gardien de musée a été généré via https://shatteredreality.itch.io/sutemo générateur de personnage de Visual Novel en accès libre 
+Le fond de chambre, ainsi que les images png du papier et de la clé sont également des fichiers en libre accès, tout comme la musique de fond. 
+Pour éviter des problèmes de droits d'auteur les images liées au domaine public ont été pixelisé. (https://giventofly.github.io/pixelit/) 
+
