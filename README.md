@@ -25,5 +25,7 @@ Le fond de chambre, ainsi que les images png du papier et de la clé sont égale
 
 Pour éviter des problèmes de droits d'auteur les images liées au domaine public ont été pixelisé. (https://giventofly.github.io/pixelit/) 
 
+Musique "Bossa Nova"; https://lolurio.itch.io/jazz-bossa-nova-music
+
 ## Auteur
 Le jeu a été crée par Valeria Frigeri, dans le cadre du cours Bachelor "Développement de jeux vidéo 2D" donné par le prof. Isaac Pante à l'Université de Lausanne - Semestre de printemps 2022
