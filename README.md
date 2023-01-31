@@ -18,7 +18,10 @@ Le but du jeu est de tester les connaissances dans ce domaine, tout en se divert
 ## Data
 Les arrières fonds de musée et les images des oeuvres proviennent du site du Musée cantonal des Beaux-Arts de Lausanne; https://www.mcba.ch/
 hormis l'image de la salle "Soulages" provenant du site de l'EPFL; https://www.epfl.ch/campus/art-culture/page-146276-en-html/soulages_en/
+
 Le personnage du gardien de musée a été généré via https://shatteredreality.itch.io/sutemo générateur de personnage de Visual Novel en accès libre 
+
 Le fond de chambre, ainsi que les images png du papier et de la clé sont également des fichiers en libre accès, tout comme la musique de fond (papier; https://www.stickpng.com/fr/img/divers-et-varies/papier-froisse/boule-de-papier-blanc-froisse cle; https://www.stickpng.com/fr/img/objets/cles/une-vieille-cle room; https://rare-gallery.com/438774-cabinet-chair-computer-window.html
+
 Pour éviter des problèmes de droits d'auteur les images liées au domaine public ont été pixelisé. (https://giventofly.github.io/pixelit/) 
 
